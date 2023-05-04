@@ -10,43 +10,43 @@
     },
     {
       "id": 1,
-      "name": "iPhone 12 Pro",
-      "desc": "Apple iPhone 12th generation",
-      "price": 999,
+      "name": "MacBook Air",
+      "desc": "Apple M2 chip",
+      "price": 1999,
       "color": "#32485a",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578"
+      "image": "https://www.apple.com/v/macbook-pro-14-and-16/e/images/overview/compare/compare_mba_m2__dvmgh93mqumq_large.png"
     },
     {
       "id": 1,
-      "name": "iPhone 12 Pro",
-      "desc": "Apple iPhone 12th generation",
-      "price": 999,
+      "name": "AirPods Max",
+      "desc": "3rd Generation",
+      "price": 1000,
       "color": "#32485a",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578"
+      "image": "https://www.apple.com/v/airpods/t/images/overview/airpods_max__f265q4g4ddym_large.png"
     },
     {
       "id": 1,
-      "name": "iPhone 12 Pro",
-      "desc": "Apple iPhone 12th generation",
-      "price": 999,
+      "name": "OnePlus 11R 5G",
+      "desc": "Galactic Silver 8GB RAM + 128 GB Storage",
+      "price": 299,
       "color": "#32485a",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578"
+      "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202302/02/kjgeQwHFysCxzQBY.png?x-amz-process=image/format,webp/quality,Q_80"
     },
     {
       "id": 1,
-      "name": "iPhone 12 Pro",
+      "name": "Google Pixel",
       "desc": "Apple iPhone 12th generation",
-      "price": 999,
+      "price": 3399,
       "color": "#32485a",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578"
+      "image": "https://lh3.googleusercontent.com/SjFYOoOjF40cw-fUdKddJ2RYv9MouDWx57Lnzmu3P3WYYky6x8oYT_cG78DzxyrVfN1Xt1h4Qg1JNUCrS8mfU3nqYzzQhpj8EA=w679"
     },
     {
       "id": 1,
-      "name": "iPhone 12 Pro",
-      "desc": "Apple iPhone 12th generation",
-      "price": 999,
+      "name": "Samsung A32",
+      "desc": "Awesome Black 8GB + 128GB Storage",
+      "price": 1299,
       "color": "#32485a",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578"
+      "image": "https://rukminim1.flixcart.com/image/416/416/klscivk0/mobile/1/p/p/a32-sm-a325fzkhins-samsung-original-imagyu3bbkazqqec.jpeg?q=70"
     }
   ]
 }

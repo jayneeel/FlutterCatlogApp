@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_catlog/pages/homepage.dart';
 import 'package:flutter_catlog/pages/login_page.dart';
 import 'package:flutter_catlog/utils/routes.dart';
-import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_catlog/widgets/themes.dart';
 
 void main(){
   runApp(MyApp());
@@ -15,11 +15,9 @@ class MyApp extends StatelessWidget {
       title: "Catlog App",
       themeMode: ThemeMode.light,
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
-        fontFamily: GoogleFonts.lato().fontFamily,
-      ),
-      initialRoute: "/",
+      theme: MyTheme.lightTheme(context),
+      darkTheme: MyTheme.darkTheme(context),
+      initialRoute: MyRoutes.homeRoute,
       routes: {
         "/": (context) => LoginPage(),
         MyRoutes.homeRoute : (context) => Homepage(),
