@@ -5,48 +5,64 @@
       "name": "iPhone 12 Pro",
       "desc": "Apple iPhone 12th generation",
       "price": 999,
-      "color": "#32485a",
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840578"
+      "color": "#33505a",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
     },
     {
-      "id": 1,
-      "name": "MacBook Air",
-      "desc": "Apple M2 chip",
-      "price": 1999,
-      "color": "#32485a",
-      "image": "https://www.apple.com/v/macbook-pro-14-and-16/e/images/overview/compare/compare_mba_m2__dvmgh93mqumq_large.png"
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
     },
     {
-      "id": 1,
-      "name": "AirPods Max",
-      "desc": "3rd Generation",
-      "price": 1000,
-      "color": "#32485a",
-      "image": "https://www.apple.com/v/airpods/t/images/overview/airpods_max__f265q4g4ddym_large.png"
+      "id": 3,
+      "name": "M1 Macbook Air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
     },
     {
-      "id": 1,
-      "name": "OnePlus 11R 5G",
-      "desc": "Galactic Silver 8GB RAM + 128 GB Storage",
-      "price": 299,
-      "color": "#32485a",
-      "image": "https://image01-in.oneplus.net/india-oneplus-statics-file/epb/202302/02/kjgeQwHFysCxzQBY.png?x-amz-process=image/format,webp/quality,Q_80"
+      "id": 4,
+      "name": "Playstation 5",
+      "desc": "Sony Playstation 5th generation",
+      "price": 500,
+      "color": "#544ee4",
+      "image": "https://www.reliancedigital.in/medias/Sony-Playstation5-Gaming-Consoles-491936180-23?context=bWFzdGVyfGltYWdlc3w5NDM4fGltYWdlL2pwZWd8aW1hZ2VzL2hmMC9oNWIvOTQ1NDMwNzgzNTkzNC5qcGd8YmU1NWE0Zjg1MjdkZGQ3MDQ3MzU4MzMwZWZkNzMzMzJkODViYzQ1MGRkODk3YWM4MGYwNWRhYjEyMTljNjhmZQ"
     },
     {
-      "id": 1,
-      "name": "Google Pixel",
-      "desc": "Apple iPhone 12th generation",
-      "price": 3399,
-      "color": "#32485a",
-      "image": "https://lh3.googleusercontent.com/SjFYOoOjF40cw-fUdKddJ2RYv9MouDWx57Lnzmu3P3WYYky6x8oYT_cG78DzxyrVfN1Xt1h4Qg1JNUCrS8mfU3nqYzzQhpj8EA=w679"
+      "id": 5,
+      "name": "Airpods Pro",
+      "desc": "Apple Aipods Pro 1st generation",
+      "price": 200,
+      "color": "#e3e4e9",
+      "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
     },
     {
-      "id": 1,
-      "name": "Samsung A32",
-      "desc": "Awesome Black 8GB + 128GB Storage",
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
       "price": 1299,
-      "color": "#32485a",
-      "image": "https://rukminim1.flixcart.com/image/416/416/klscivk0/mobile/1/p/p/a32-sm-a325fzkhins-samsung-original-imagyu3bbkazqqec.jpeg?q=70"
+      "color": "#1c1c1c",
+      "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+    },
+    {
+      "id": 8,
+      "name": "Galaxy S21",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "price": 899,
+      "color": "#7c95eb",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
     }
   ]
 }
